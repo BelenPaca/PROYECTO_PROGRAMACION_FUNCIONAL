@@ -7,6 +7,7 @@ Se basa en conceptos
 *  Inmutabilidad
 *  Funciones de orden Superior
 *  Recursividad
+  
 Las funciones lambda en Java son simplemente funciones anónimas que pueden ser tratadas como cualquier otra expresión. Tienen la siguiente sintaxis básica:
 (parametros) -> expresion
 
